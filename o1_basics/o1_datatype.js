@@ -1,3 +1,14 @@
+"use strict"; //treat all JS code as newer version
+
+console.log(3 + 3);
+let age = 18
+let name = "Sonja"
+let isLoggedIn = true
+
+//number , bigint , string, boolean, null, 
+
+
+
 let score = "33"
 console.log(typeof(score));
 let valueInNumber = Number(score)
